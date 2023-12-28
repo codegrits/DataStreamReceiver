@@ -29,12 +29,4 @@
         <toolWindow factoryClass="IDEDataWindow" id="IDE Tracker Data" secondary="true" anchor="right"/>
         <toolWindow factoryClass="EyeDataWindow" id="Eye Tracker Data" secondary="true" anchor="right"/>
     </extensions>
-<!--    <actions>-->
-<!--        <action id="TestAction" class="TestAction" text="Test" description="Test">-->
-<!--            <add-to-group group-id="ToolsMenu" anchor="first"/>-->
-<!--        </action>-->
-<!--        <action id="StopAction" class="StopAction" text="Stop" description="Stop">-->
-<!--            <add-to-group group-id="ToolsMenu" anchor="first"/>-->
-<!--        </action>-->
-<!--    </actions>-->
 </idea-plugin>

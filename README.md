@@ -6,6 +6,8 @@ provided by [CodeGRITS](https://codegrits.github.io/CodeGRITS/). It is designed 
 eye tracking data and simply visualize them in two separate windows.
 
 When you install DataStreamReceiver, CodeGRITS will be installed automatically as a dependency.
+DataStreamReceiver serves as an example project for future plugin developers and researchers to learn how to use the
+real-time data API.
 
 ## Build
 
@@ -20,4 +22,4 @@ in IntelliJ IDEA to debug the code.
 
 ## Contact
 
-If you have any questions, please raise an issue, or contact Junwen An at jan2@nd.edu) or Ningzhi Tang at ntang@nd.edu.
+If you have any questions, please raise an issue, or contact Junwen An at jan2@nd.edu or Ningzhi Tang at ntang@nd.edu.
